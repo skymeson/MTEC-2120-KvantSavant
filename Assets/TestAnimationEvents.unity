@@ -600,6 +600,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: X Bot
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f5204375066e1b74ab496d6714016c3c, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5866666021909216657, guid: f5204375066e1b74ab496d6714016c3c, type: 3}
       propertyPath: m_Controller
       value: 
